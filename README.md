@@ -1,3 +1,2 @@
 # dash-job-api
-[![Build Status](https://travis-ci.org/DashJob/dash-job-api.svg?branch=dev)](https://travis-ci.org/DashJob/dash-job-api)
-A dashboard for your job search
+The Backend for the JobDash application. The Frontend repo is at https://github.com/DashJob/dash-job-FE, where you can see how download the app locally. 
